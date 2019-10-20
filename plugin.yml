@@ -1,0 +1,10 @@
+name: Halloween
+main: me.wand555.Halloween.Halloween
+version: 1.0.0
+api-version: 1.13
+description: >
+             Halloween
+author: wand555
+permissions:
+  halloween.bypass:
+    default: false
